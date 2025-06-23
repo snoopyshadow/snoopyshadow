@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-
+<!---
 **snoopyshadow/snoopyshadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+-->
 
 - 🔭 I’m currently working on ... using this for scripting edits
 - 🌱 I’m currently learning ... how to uploade files and then merge them to a main script that will be used moving forward
